@@ -1,3 +1,5 @@
+pip install --upgrade pip setuptools wheel
+
 pip install python-can  udsoncan
 pip install git+https://github.com/pylessard/python-can-isotp.git
 https://chatgpt.com/c/68f86af2-f6f8-832c-b6b5-3495b1ee0b72
